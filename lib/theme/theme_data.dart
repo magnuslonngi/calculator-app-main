@@ -1,0 +1,58 @@
+import 'package:flutter/material.dart';
+
+const Map<String, Color> darkTheme = {
+  'mainBackground': Color.fromARGB(255, 58, 70, 99),
+  'resultBackground': Color.fromARGB(255, 24, 31, 51),
+  'operationBackground': Color.fromARGB(255, 36, 45, 68),
+  'buttonOne': Color.fromARGB(255, 208, 63, 47),
+  'buttonOneOutline': Color.fromARGB(255, 147, 38, 26),
+  'buttonOneHover': Color.fromARGB(255, 249, 107, 91),
+  'buttonTwo': Color.fromARGB(255, 234, 227, 220),
+  'buttonTwoOutline': Color.fromARGB(255, 179, 163, 152),
+  'buttonTwoHover': Color.fromARGB(255, 255, 255, 254),
+  'buttonThree': Color.fromARGB(255, 100, 113, 152),
+  'buttonThreeOutline': Color.fromARGB(255, 66, 78, 115),
+  'buttonThreeHover': Color.fromARGB(255, 162, 178, 225),
+  'primaryText': Color.fromARGB(255, 255, 255, 255),
+  'secondaryText': Color.fromARGB(255, 255, 255, 255),
+  'operationText': Color.fromARGB(255, 67, 74, 89),
+  'equalText': Color.fromARGB(255, 255, 255, 255),
+};
+
+const Map<String, Color> lightTheme = {
+  'mainBackground': Color.fromARGB(255, 230, 230, 230),
+  'resultBackground': Color.fromARGB(255, 238, 238, 238),
+  'operationBackground': Color.fromARGB(255, 210, 205, 205),
+  'buttonOne': Color.fromARGB(255, 200, 84, 2),
+  'buttonOneOutline': Color.fromARGB(255, 135, 57, 1),
+  'buttonOneHover': Color.fromARGB(255, 255, 138, 56),
+  'buttonTwo': Color.fromARGB(255, 229, 228, 225),
+  'buttonTwoOutline': Color.fromARGB(255, 167, 158, 145),
+  'buttonTwoHover': Color.fromARGB(255, 255, 255, 255),
+  'buttonThree': Color.fromARGB(255, 55, 129, 135),
+  'buttonThreeOutline': Color.fromARGB(255, 26, 96, 102),
+  'buttonThreeHover': Color.fromARGB(255, 98, 181, 188),
+  'primaryText': Color.fromARGB(255, 54, 54, 44),
+  'secondaryText': Color.fromARGB(255, 255, 255, 255),
+  'operationText': Color.fromARGB(255, 54, 54, 44),
+  'equalText': Color.fromARGB(255, 255, 255, 255),
+};
+
+const Map<String, Color> neonTheme = {
+  'mainBackground': Color.fromARGB(255, 23, 6, 42),
+  'resultBackground': Color.fromARGB(255, 30, 9, 54),
+  'operationBackground': Color.fromARGB(255, 30, 9, 54),
+  'buttonOne': Color.fromARGB(255, 0, 222, 208),
+  'buttonOneOutline': Color.fromARGB(255, 108, 249, 241),
+  'buttonOneHover': Color.fromARGB(255, 157, 255, 248),
+  'buttonTwo': Color.fromARGB(255, 51, 28, 77),
+  'buttonTwoOutline': Color.fromARGB(255, 136, 28, 158),
+  'buttonTwoHover': Color.fromARGB(255, 108, 52, 172),
+  'buttonThree': Color.fromARGB(255, 86, 7, 124),
+  'buttonThreeOutline': Color.fromARGB(255, 190, 21, 244),
+  'buttonThreeHover': Color.fromARGB(255, 134, 49, 175),
+  'primaryText': Color.fromARGB(255, 255, 229, 61),
+  'secondaryText': Color.fromARGB(255, 255, 255, 255),
+  'operationText': Color.fromARGB(255, 255, 229, 61),
+  'equalText': Color.fromARGB(255, 26, 35, 39),
+};
