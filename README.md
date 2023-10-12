@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL:](https://www.frontendmentor.io/solutions/calculator-app-made-using-dart-and-flutter-UFqurYkDDn)
+- [Live site URL](https://magnuslonngi.github.io/calculator-app-main/)
 
 ## My process
 
